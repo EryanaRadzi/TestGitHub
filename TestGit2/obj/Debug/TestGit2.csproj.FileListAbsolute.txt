@@ -1,0 +1,12 @@
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2\Bin\Debug\TestGit2.dll
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2\Bin\Debug\TestGit2.pdb
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2\Bin\Debug\AppManifest.xaml
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2\Bin\Debug\TestGit2.xap
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2\Bin\Debug\TestGit2TestPage.html
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2\obj\Debug\TestGit2.csprojResolveAssemblyReference.cache
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2\obj\Debug\App.g.cs
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2\obj\Debug\MainPage.g.cs
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2\obj\Debug\TestGit2.g.resources
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2\obj\Debug\TestGit2.dll
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2\obj\Debug\TestGit2.pdb
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,6 @@
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2.Web\bin\TestGit2.Web.dll.config
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2.Web\bin\TestGit2.Web.dll
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2.Web\bin\TestGit2.Web.pdb
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2.Web\obj\Debug\TestGit2.Web.csprojResolveAssemblyReference.cache
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2.Web\obj\Debug\TestGit2.Web.dll
+c:\users\n.eryana\documents\visual studio 2015\Projects\TestGit2\TestGit2.Web\obj\Debug\TestGit2.Web.pdb
